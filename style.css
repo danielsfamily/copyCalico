@@ -1,0 +1,26 @@
+#topPicture {
+    padding-left: 100vh;
+    padding-bottom: 30px;
+     } 
+   
+
+  P{
+    text-align: center;
+   /* color: grey;
+    margin: -9px;
+    margin-bottom: 20px;
+    font-family: "Diatype Variable", Icons;*/
+    font-family: "Diatype Variable", Icons;
+    font-variation-settings: 'slnt' 0, 'MONO' 0;
+    padding: 0;
+    margin: -20px;
+    margin-bottom: 20px;
+    line-height: 1.3;
+    color: rgb(145, 145, 145);
+    font-style: normal;
+    font-weight: 400;
+}
+
+#collage {
+    padding-left: 17%;
+}
