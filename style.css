@@ -1,28 +1,25 @@
 #topPicture {
-    padding-left: 100vh;
+    padding-left: 97vh;
     padding-bottom: 30px;
      } 
    
 
   P{
     text-align: center;
-   /* color: grey;
-    margin: -9px;
-    margin-bottom: 20px;
-    font-family: "Diatype Variable", Icons;*/
     font-family: "Diatype Variable", Icons;
-    font-variation-settings: 'slnt' 0, 'MONO' 0;
+    font-variation-settings: 'slnt' 2, 'MONO' 3;
     padding: 0;
-    margin: -20px;
-    margin-bottom: 18px;
-    line-height: 1.5;
+    margin: -22px;
+    margin-bottom: 25px;
+    line-height: 1.0;
     color: rgb(145, 145, 145);
     font-style: normal;
     font-weight: 500;
+    font-size: x-large;
    
 }
 
 #collage {
-    padding-left: 12%;
+    padding-left: 15%;
     padding-top: 25px;
 }
